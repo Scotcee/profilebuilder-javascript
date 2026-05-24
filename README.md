@@ -86,9 +86,7 @@ node profileBuilder.js
 
 ## Sample Output
 
-### Profile Cards
-
-Screenshots of output from my terminal:
+### Screenshots of output from my terminal:
 
 <img src="./screenshots/Screenshot from 2026-05-24 13-41-11.png" width="400">
 <img src="./screenshots/Screenshot from 2026-05-24 13-41-24.png" width="400">
@@ -97,22 +95,8 @@ Screenshots of output from my terminal:
 
 ---
 
-### Skills and Track Summary
-
-Add screenshot here:
-
-![Track Summary Output](./images/track-summary-output.png)
-
----
-
-### Mentor Workload and Rankings
-
-Add screenshot here:
-
-![Ranking Output](./images/ranking-output.png)
-
----
-
 ## Author
 
-Your Name
+# Ajemba Joseph
+
+# Intermediate React
